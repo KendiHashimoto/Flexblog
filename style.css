@@ -30,6 +30,7 @@ img {
 .superinfo-bg {
     background: #122ab2;
     color: white;
+    scroll-behavior: smooth;
 }
 
 .superinfo {
