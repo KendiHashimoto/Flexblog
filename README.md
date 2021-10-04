@@ -2,8 +2,16 @@
 ### 🟢 Site estático e responsivo criado no curso de flexbox da Origamid com o objetivo de aprimorar conhecimentos sobre flexbox.
 ### 🖥️ Site : <a href="https://hashimoto1312.github.io/Flexblog/" target="_blank">Flexblog</a>
 ## 👾 Tecnologias utilizadas : 
-* ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-* ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="Hashimoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Hashimoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h3>
+    <ul>
+      <li>Flexbox</li>
+    </ul>
+  </h3>
+</div>
+
 ![image](https://user-images.githubusercontent.com/71889483/135727380-8dd8943b-729a-4864-9e24-4847a94fe37a.png)
 ![image](https://user-images.githubusercontent.com/71889483/135727393-2a71815e-da9f-46ab-a0ff-cbe2719d0f6a.png)
 ![image](https://user-images.githubusercontent.com/71889483/135727397-26e52450-897c-4697-9c47-80b2c616e38e.png)
