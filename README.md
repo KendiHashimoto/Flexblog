@@ -1,7 +1,7 @@
 # 💠 Flexblog
-## 🟢 Site estático e responsivo criado no curso de flexbox da Origamid com o objetivo de aprimorar conhecimentos sobre flexbox.
+## 🟢 Static and responsive site created in Origamid's flexbox course with the goal of improving knowledge about flexbox.
 ## 🖥️ Site : <a href="https://hashimoto1312.github.io/Flexblog/" target="_blank">Flexblog</a>
-## 👾 Tecnologias utilizadas : 
+## 👾 Made with : 
 <div style="display: inline_block">
   <img align="center" alt="Hashimoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hashimoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
